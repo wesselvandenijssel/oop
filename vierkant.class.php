@@ -1,5 +1,5 @@
 <?php
-    class Vierkant{
+    class Vierkant extends Figuur{
         public $oppervlakteVierkant;
         protected $x;
 

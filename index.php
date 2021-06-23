@@ -1,6 +1,4 @@
 <?php
-include 'vierkant.class.php';
-include 'cilinder.class.php';
 include 'figuur.class.php';
 
 $Vierkant = new Vierkant(5);

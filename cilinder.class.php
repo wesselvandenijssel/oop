@@ -1,5 +1,5 @@
 <?php
-    class Cilinder{
+    class Cilinder extends Figuur{
         public $inhoudCilinder;
         protected $oppervlakteCirkels;
         protected $oppervlakteBuis;

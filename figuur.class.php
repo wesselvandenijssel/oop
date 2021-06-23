@@ -1,5 +1,10 @@
 <?php
-    class Driehoek{
+include 'vierkant.class.php';
+include 'cilinder.class.php';
+class Figuur{
+
+}
+    class Driehoek extends Figuur{
         public $oppervlakteDriehoek;
         protected $H;
         protected $B;
